@@ -24,9 +24,9 @@
 >>>>>>[Window.java](/src/com/game/view/Window.java)  
 >>>
 >>>resources  
->>>>[merge.wav](/src/resources/merge.wav)
->>>>[move.wav](/src/resources/move.wav)
->>view
+>>>>[merge.wav](/src/resources/merge.wav)  
+>>>>[move.wav](/src/resources/move.wav)  
+>>
 >>.classpath  
 >>.project
 
