@@ -1,10 +1,4 @@
-# 2048工程概述
-
->* 1. 这是一个 Java写的2048 工程   
->* 2. Ecliipse Version: Neon.3 Release (4.6.3)编译可通过
->* 3. 这个工程的代码完全参考以下文章  
-  [《2048》游戏Java版本+源码(一)](http://www.wolfbe.com/detail/201609/366.html)  
-  [《2048》游戏Java版本+源码(二)](http://www.wolfbe.com/detail/201609/369.html)
+# 2048JAva工程说明
 
 ## 如何导入工程
 请将文件结构调整如下再直接导入  
@@ -30,3 +24,9 @@
 >>.classpath  
 >>.project
 
+## 工程概述
+>* 1. 这是一个 Java写的2048 工程   
+>* 2. Ecliipse Version: Neon.3 Release (4.6.3)编译可通过
+>* 3. 这个工程的代码完全参考以下文章  
+  [《2048》游戏Java版本+源码(一)](http://www.wolfbe.com/detail/201609/366.html)  
+  [《2048》游戏Java版本+源码(二)](http://www.wolfbe.com/detail/201609/369.html)
